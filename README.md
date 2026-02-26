@@ -3,6 +3,8 @@
 🌍 TripAdvisor Clone – Static Website (HTML & CSS)
 This is a static clone of the TripAdvisor website, built using HTML and CSS only. The project replicates the look and feel of the popular travel and review platform, focusing on responsive layout, clean design, and user-friendly interface.
 
+Live Demo : https://priyadharshini526-png.github.io/Tripadvisor/
+
 🔧 Features
 Fully responsive homepage design
 
